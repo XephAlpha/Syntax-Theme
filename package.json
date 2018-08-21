@@ -1,0 +1,22 @@
+{
+    "name": "syntax",
+    "displayName": "syntax",
+    "description": "Simplified dark theme for VS Code.",
+    "version": "0.0.1",
+    "publisher": "XephAlpha",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Syntax Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Syntax Theme-color-theme.json"
+            }
+        ]
+    }
+}
