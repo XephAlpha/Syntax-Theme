@@ -2,7 +2,7 @@
     "name": "syntax",
     "displayName": "syntax",
     "description": "Simplified dark theme for VS Code.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "XephAlpha",
     "engines": {
         "vscode": "^1.26.0"
@@ -11,15 +11,15 @@
         "Themes"
     ],
     "keywords": [
-		"theme",
-		"color-theme",
-		"syntax",
-		"material",
-		"dark"
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/XephAlpha/Syntax-Theme.git"
+        "theme",
+        "color-theme",
+        "syntax",
+        "material",
+        "dark"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/XephAlpha/Syntax-Theme.git"
     },
     "icon": "icon.png",
     "contributes": {
