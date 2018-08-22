@@ -10,7 +10,7 @@ A simplified dark theme for VS Code.
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) -- change editor font family in VS Code settings
 
 ### Editor Settings
-'''json
+```json
 {
     "editor.fontFamily": "Roboto Mono Medium",
     "editor.fontSize": 14,
@@ -29,6 +29,6 @@ A simplified dark theme for VS Code.
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.folders.color": "#6688cc"
 }
-'''
+```
 
 **Enjoy!**
