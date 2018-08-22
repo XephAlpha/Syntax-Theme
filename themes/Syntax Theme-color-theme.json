@@ -7,7 +7,7 @@
         "textLink.activeForeground": "#F0F0F0",
         "button.background": "#A0A0A0",
         "button.foreground": "#1C1C1C",
-        "button.hoverBackground": "#A0A0A0",
+        "button.hoverBackground": "#808080",
         "dropdown.background": "#1C1C1C",
         "dropdown.listBackground": "#1C1C1C",
         "dropdown.border": "#202020",
