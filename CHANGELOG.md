@@ -1,5 +1,8 @@
 ## Change Log
 
+### v0.0.8
+- Updated README file
+
 ### v0.0.7
 - Changed button hover background
 - Updated README file
