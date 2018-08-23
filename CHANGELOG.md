@@ -1,5 +1,8 @@
 ## Change Log
 
+### v0.0.9
+- Fixed sidebar section header foreground
+
 ### v0.0.8
 - Updated README file
 

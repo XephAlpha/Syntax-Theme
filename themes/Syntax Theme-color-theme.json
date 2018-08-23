@@ -47,7 +47,7 @@
         "sideBar.dropBackground": "#1C1C1C",
         "sideBarTitle.foreground": "#F0F0F0",
         "sideBarSectionHeader.background": "#1C1C1C",
-        "sideBarSectionHeader.foreground": "#404040",
+        "sideBarSectionHeader.foreground": "#808080",
         "editorGroup.emptyBackground": "#1C1C1C",
         "editorGroup.border": "#1C1C1C",
         "editorGroup.dropBackground": "#1C1C1C",
