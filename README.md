@@ -1,15 +1,27 @@
-## Syntax Theme
+# Syntax Theme
 A simplified dark theme for VS Code.
 
-### Preview
-![Screenshot](./images/screenshot.PNG)
+### Previews
 
-### Addons
+#### HTML
+![Screenshot](./images/html.PNG)
+
+#### CSS
+![Screenshot](./images/css.PNG)
+
+#### JavaScript
+![Screenshot](./images/js.PNG)
+
+#### PHP
+![Screenshot](./images/php.PNG)
+
+### Addons to install and setup to match the screenshot
+
+##### Icon Theme
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 -- customized folder icon color: #6688CC
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) -- change editor font family in VS Code settings
-
-### Editor Settings
+##### Editor Settings
 ```json
 {
     "editor.fontFamily": "Roboto Mono Medium",
