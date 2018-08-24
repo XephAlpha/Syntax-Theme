@@ -1,5 +1,8 @@
 ## Change Log
 
+### v0.1.2
+- Updated README file
+
 ### v0.1.1
 - Added new screenshots
 

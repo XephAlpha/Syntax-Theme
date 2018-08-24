@@ -18,10 +18,10 @@ A simplified dark theme for VS Code.
 ### Addons to install and setup to match the screenshot
 
 ##### Icon Theme
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
--- customized folder icon color: #6688CC
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) -- customized folder icon color: #6688CC
+##### Editor Font
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) -- change editor font family in VS Code settings
-##### Editor Settings
+##### Editor User Settings
 ```json
 {
     "editor.fontFamily": "Roboto Mono Medium",
