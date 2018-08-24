@@ -1,5 +1,8 @@
 ## Change Log
 
+### v0.1.0
+- Updated syntax colors assignments
+
 ### v0.0.9
 - Fixed sidebar section header foreground
 
