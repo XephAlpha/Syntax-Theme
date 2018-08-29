@@ -1,5 +1,8 @@
 ## Change Log
 
+### v0.1.3
+- Minimal adjustments to colors
+
 ### v0.1.2
 - Updated README file
 
