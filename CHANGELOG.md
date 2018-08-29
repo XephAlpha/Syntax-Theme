@@ -1,5 +1,11 @@
 ## Change Log
 
+### v1.0.0
+- Added new syntax color
+- Updated color values
+- Replaced icon image
+- Official release of version 1.0.0
+
 ### v0.1.3
 - Minimal adjustments to colors
 
