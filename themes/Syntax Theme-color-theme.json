@@ -106,7 +106,7 @@
         "statusBarItem.hoverBackground": "#000000",
         "statusBarItem.prominentBackground": "#101010",
         "statusBarItem.prominentHoverBackground": "#181818",
-        "terminal.foreground": "#A0A0A0",
+        "terminal.foreground": "#C0C0C0",
         "terminal.ansiWhite": "#F0F0F0",
         "terminal.ansiBlack": "#404040",
         "terminal.ansiBlue": "#6688CC",
