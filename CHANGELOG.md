@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.2.1
+- Updated editor preview
+
 ### v1.2.0
 - Updated screenshots
 

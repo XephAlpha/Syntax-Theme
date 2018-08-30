@@ -3,19 +3,26 @@ A simplified dark theme for VS Code.
 
 ### Previews
 
+![Screenshot](./images/preview.PNG)
+
+
 #### HTML
 ![Screenshot](./images/html.PNG)
+
 
 #### CSS
 ![Screenshot](./images/css.PNG)
 
+
 #### JavaScript
 ![Screenshot](./images/js.PNG)
+
 
 #### PHP
 ![Screenshot](./images/php.PNG)
 
-### Addons to install and setup to match the screenshot
+
+### Addons to install and setup to match the previews
 
 ##### Icon Theme
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) -- customized folder icon color: #6688CC
