@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.1.0
+- Minor adjustments
+
 ### v1.0.0
 - Added new syntax color
 - Updated color values
