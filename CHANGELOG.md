@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.1.2
+- Updated icon image
+
 ### v1.1.1
 - Fixed foreground color
 
