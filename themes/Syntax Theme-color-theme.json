@@ -70,7 +70,7 @@
         "tab.hoverBorder": "#181818",
         "tab.unfocusedHoverBorder": "#181818",
         "editor.background": "#181818",
-        "editor.foreground": "#C0C0C0C0",
+        "editor.foreground": "#C0C0C0",
         "editorLineNumber.foreground": "#404040",
         "editorLineNumber.activeForeground": "#A0A0A0",
         "editorCursor.background": "#A0A0A0",
