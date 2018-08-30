@@ -2,7 +2,7 @@
     "name": "syntax",
     "displayName": "syntax",
     "description": "Simplified dark theme for VS Code.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "XephAlpha",
     "engines": {
         "vscode": "^1.26.0"
