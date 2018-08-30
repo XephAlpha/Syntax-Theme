@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.1.1
+- Fixed foreground color
+
 ### v1.1.0
 - Minor adjustments
 
