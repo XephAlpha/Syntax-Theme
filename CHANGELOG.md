@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.2.0
+- Updated screenshots
+
 ### v1.1.2
 - Updated icon image
 
