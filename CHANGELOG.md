@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.2.3
+- Minor adjustments
+
 ### v1.2.2
 - Updated widget shadows
 
