@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.2.2
+- Updated widget shadows
+
 ### v1.2.1
 - Updated editor preview
 
