@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.3.3
+- Updated screenshots
+
 ### v1.3.2
 - Minor adjustments
 
