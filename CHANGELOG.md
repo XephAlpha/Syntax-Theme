@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.3.2
+- Minor adjustments
+
 ### v1.3.1
 - Updated theme description
 

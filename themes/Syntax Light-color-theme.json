@@ -176,8 +176,8 @@
         {
             "name": "Red",
             "scope": [
-                "entity",
-                "meta.object-literal.key"
+                "string",
+                "support.constant"
             ],
             "settings": {
                 "foreground": "#A31515"
@@ -209,8 +209,8 @@
         {
             "name": "Yellow",
             "scope": [
-                "string",
-                "support.constant"
+                "entity",
+                "meta.object-literal.key"
             ],
             "settings": {
                 "foreground": "#BF8B00"
