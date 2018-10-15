@@ -1,5 +1,5 @@
 # Syntax Theme
-A simplified dark theme for VS Code.
+A simple light and dark theme for VS Code.
 
 ### Previews
 #### DARK

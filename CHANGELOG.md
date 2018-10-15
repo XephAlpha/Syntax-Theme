@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.3.1
+- Updated theme description
+
 ### v1.3.0
 - Added Light Theme
 - Updated screenshots
