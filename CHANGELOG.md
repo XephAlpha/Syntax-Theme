@@ -1,18 +1,7 @@
 ## Change Log
 
-### v1.3.4
-- Modified package.json
-
-### v1.3.3
-- Updated screenshots
-
-### v1.3.2
-- Minor adjustments
-
-### v1.3.1
+### v1.4.0
 - Updated theme description
-
-### v1.3.0
 - Added Light Theme
 - Updated screenshots
 
