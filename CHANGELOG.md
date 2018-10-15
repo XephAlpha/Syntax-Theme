@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.3.4
+- Modified package.json
+
 ### v1.3.3
 - Updated screenshots
 
