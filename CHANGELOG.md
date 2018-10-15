@@ -1,5 +1,9 @@
 ## Change Log
 
+### v1.3.0
+- Added Light Theme
+- Updated screenshots
+
 ### v1.2.3
 - Minor adjustments
 

@@ -2,25 +2,11 @@
 A simplified dark theme for VS Code.
 
 ### Previews
+#### DARK
+![Screenshot](./images/dark.PNG)
 
-![Screenshot](./images/preview.PNG)
-
-
-#### HTML
-![Screenshot](./images/html.PNG)
-
-
-#### CSS
-![Screenshot](./images/css.PNG)
-
-
-#### JavaScript
-![Screenshot](./images/js.PNG)
-
-
-#### PHP
-![Screenshot](./images/php.PNG)
-
+#### LIGHT
+![Screenshot](./images/light.PNG)
 
 ### Addons to install and setup to match the previews
 

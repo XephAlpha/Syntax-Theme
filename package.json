@@ -25,9 +25,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Syntax Theme",
+                "label": "Syntax Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Syntax Theme-color-theme.json"
+                "path": "./themes/Syntax Dark-color-theme.json"
+            },
+            {
+                "label": "Syntax Light",
+                "uiTheme": "vs",
+                "path": "./themes/Syntax Light-color-theme.json"
             }
         ]
     }
