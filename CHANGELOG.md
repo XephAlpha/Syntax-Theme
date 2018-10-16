@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.4.1
+- Updated keywords
+
 ### v1.4.0
 - Updated theme description
 - Added Light Theme
