@@ -12,18 +12,10 @@
     ],
     "keywords": [
         "theme",
-        "color-theme",
         "syntax",
         "material",
         "dark",
-        "light",
-        "contrast",
-        "clean",
-        "simple",
-        "basic",
-        "elegant",
-        "beautiful",
-        "pro"
+        "light"
     ],
     "repository": {
         "type": "git",
