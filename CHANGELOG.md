@@ -1,6 +1,6 @@
 ## Change Log
 
-### v1.5.0
+### v1.5.1
 - Updated icon
 - Modified package.json
 - Updated changelog
