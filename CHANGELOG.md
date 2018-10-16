@@ -1,10 +1,9 @@
 ## Change Log
 
-### v1.4.3
+### v1.5.0
+- Updated icon
 - Modified package.json
 - Updated changelog
-
-### v1.4.1
 - Updated keywords
 
 ### v1.4.0
