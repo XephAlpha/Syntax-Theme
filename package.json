@@ -15,7 +15,15 @@
         "color-theme",
         "syntax",
         "material",
-        "dark"
+        "dark",
+        "light",
+        "contrast",
+        "clean",
+        "simple",
+        "basic",
+        "elegant",
+        "beautiful",
+        "pro"
     ],
     "repository": {
         "type": "git",
