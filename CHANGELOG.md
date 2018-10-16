@@ -1,5 +1,9 @@
 ## Change Log
 
+### v1.4.3
+- Modified package.json
+- Updated changelog
+
 ### v1.4.1
 - Updated keywords
 
