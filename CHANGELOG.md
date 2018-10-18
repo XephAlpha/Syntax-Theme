@@ -1,5 +1,8 @@
 ## Change Log
 
+### v1.5.2
+- Updated status bar background color
+
 ### v1.5.1
 - Updated icon
 - Modified package.json
